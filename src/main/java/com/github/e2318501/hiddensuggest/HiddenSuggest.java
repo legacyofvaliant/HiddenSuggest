@@ -1,4 +1,4 @@
-package net.nutchi.hiddensuggest;
+package com.github.e2318501.hiddensuggest;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

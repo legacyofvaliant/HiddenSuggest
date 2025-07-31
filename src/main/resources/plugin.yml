@@ -1,6 +1,6 @@
 name: HiddenSuggest
 version: '${project.version}'
-main: net.nutchi.hiddensuggest.HiddenSuggest
+main: com.github.e2318501.hiddensuggest.HiddenSuggest
 api-version: '1.19'
 permissions:
     hiddensuggest.bypass:
